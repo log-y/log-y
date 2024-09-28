@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on CS40 (Machine-Level Structure) at Tufts!<br>👯 I’m looking to collaborate on anything relating to machine learning!<br>🤝 I’m looking for help with understanding C.<br>💬 Ask me about research in computer science.
+🔭 I’m currently working on CS40 (Machine-Level Structure) at Tufts.<br>👯 I’m looking to collaborate on anything relating to machine learning.<br>🤝 I’m looking for help with understanding C.<br>💬 Ask me about research in computer science.
 
 
 # 💻 Tech Stack:
