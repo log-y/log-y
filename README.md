@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything, really. But I think I'll be a lot more useful on projects involving React and data science.
 - 🤔 I’m looking for help with deploying stuff in the cloud (preferably for free).
 - 💬 Ask me about Tufts, piano, cats...
-- ⚡ Fun fact: Big Joji fan
+- ⚡ Fun fact: Ran a lucrative APUSH notes business in high school.
 
 
 # 💻 Tech Stack:
