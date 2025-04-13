@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- 🔭 I’m currently working on being a good PM at the Tufts Human Interaction lab.
+- 🔭 I’m currently a SWE intern at Owl Labs Inc in Boston.
 - 🌱 I’m currently learning more advanced ML techniques.
 - 👯 I’m looking to collaborate on anything, really. But I think I'll be a lot more useful on projects involving React and data science.
 - 🤔 I’m looking for help with deploying stuff in the cloud (preferably for free).
