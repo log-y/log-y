@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hey there, I'm Logan! 👋
 
 <!--
 **log-y/log-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
