@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! 👋
 
 <!--
 **log-y/log-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-- 🔭 I’m currently a SWE intern at Owl Labs Inc in Boston.
-- 🌱 I’m currently learning more advanced ML techniques.
-- 👯 I’m looking to collaborate on anything, really. But I think I'll be a lot more useful on projects involving React and data science.
-- 🤔 I’m looking for help with deploying stuff in the cloud (preferably for free).
-- 💬 Ask me about Tufts, piano, cats...
-- ⚡ Fun fact: Ran a lucrative APUSH notes business in high school.
+# 💫 Quick Facts:
+- 🔭 Current SWE intern at Owl Labs Inc, a high-growth robotics startup in Boston.
+- 📫 Incoming digital systems intern at Mass General Brigham.
+- 🌱 College student majoring in computer science and math, concentrating in AI and statistics.
+- 👯 Big fan of C++ and Java.
+- 💬 Ask me about piano, gaming, food...
+- ⚡ Ran a lucrative AP course notes business in high school. Developed and distributed notes for the 15 AP courses I took for 100+ classmates.
 
 
 # 💻 Tech Stack:
