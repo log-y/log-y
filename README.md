@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 Quick Facts:
-- 🔭 SWE intern at Owl Labs Inc, an AI-robotics startup in Boston.
-- 📫 Incoming digital systems intern at Mass General Brigham.
+- 🔭 Digital systems intern at Mass General Brigham.
+- 📫 Prev SWE intern at Owl Labs, an AI-robotics startup in Boston.
 - 🌱 College student majoring in computer science and math, concentrating in AI and statistics.
 - 👯 Big fan of C++ and Java.
 - 💬 Ask me about piano, gaming, food...
