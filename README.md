@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 Quick Facts:
-- 🔭 Product management intern at Mass General Brigham.
+- 🔭 Intern at Mass General Brigham Digital
 - 📫 Prev SWE intern at Owl Labs, an AI-robotics startup in Boston.
 - 🌱 College student majoring in computer science and math, concentrating in AI and statistics.
 - 👯 Big fan of C++ and Java.
