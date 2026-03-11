@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 # 💫 Quick Facts:
 - 🔭 SWE
-- 🌱 College student majoring in computer science and math, concentrating in AI and statistics.
-- 👯 Big fan of C++ and Java.
+- 🌱 CS/Math major, concentrating in AI and statistics.
+- 👯 Big fan of Python.
 - 💬 Ask me about piano, gaming, food...
 - ⚡ Ran a lucrative AP course notes business in high school, where I developed and distributed notes for the 15 AP courses I took for 100+ classmates.
 
