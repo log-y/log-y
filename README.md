@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 # 💫 Quick Facts:
 -  SWE
--  CS/Math major, concentrating in AI and statistics
--  Ask me about piano, gaming, food...
--  Ran a lucrative AP course notes business in high school, where I distributed notes for the 15 AP courses I took for 100+ classmates.
+-  Occasional PM
+-  CS/Math major
+-  Ran a semi-lucrative business in high school, where I sold notes for the 15 AP courses I took to 100+ classmates
 
 
 # 💻 Tech Stack:
