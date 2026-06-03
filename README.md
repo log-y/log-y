@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 Quick Facts:
-- 🔭 SWE
-- 🌱 CS/Math major, concentrating in AI and statistics.
-- 👯 Big fan of Python.
-- 💬 Ask me about piano, gaming, food...
-- ⚡ Ran a lucrative AP course notes business in high school, where I developed and distributed notes for the 15 AP courses I took for 100+ classmates.
+-  SWE
+-  CS/Math major, concentrating in AI and statistics
+-  Ask me about piano, gaming, food...
+-  Ran a lucrative AP course notes business in high school, where I distributed notes for the 15 AP courses I took for 100+ classmates.
 
 
 # 💻 Tech Stack:
