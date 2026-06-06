@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 Quick Facts:
--  SWE
+-  SWE (intern)
 -  Occasional PM
 -  CS/Math major
 -  Ran a semi-lucrative business in high school, where I sold notes for the 15 AP courses I took to 100+ classmates
